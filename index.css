@@ -427,12 +427,12 @@ footer {
   margin: 25px 0;
   font-size: 0.9em;
   width: 100%;
-  height: auto;
   border-radius: 5px 5px 0 0;
   overflow: hidden;
   background: #0b231e;
   color: #ffffff;
   text-align: center;
+  
 }
 
 .content-table thead tr {
